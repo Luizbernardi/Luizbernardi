@@ -1,4 +1,4 @@
-👋 Olá, sou @Luizbernardi
+ Olá, sou Luiz Bernardi
 
 <!---
 Luizbernardi/Luizbernardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
