@@ -1,6 +1,6 @@
 <!-- Presentation -->
 
-# Olá, sou Luiz Bernardi 
+ # Olá, sou Luiz Bernardi 
 
 
 <!-- Links -->
@@ -23,7 +23,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h2>Programming Languages</h2>
     <img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,7 +33,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h2>Tools & Frameworks</h2>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Eclipse" height="30" width="40" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
