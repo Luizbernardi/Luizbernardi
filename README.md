@@ -1,7 +1,7 @@
 <!-- Presentation -->
-<p>
-   Olá, sou Luiz Bernardi 
-</p>
+
+# Olá, sou Luiz Bernardi 
+
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardi_luiz/)
