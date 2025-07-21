@@ -1,18 +1,26 @@
-# Olá, sou Luiz Bernardi 👋
+Olá, sou Luiz Bernardi 👋
 
-Desenvolvedor de software com experiência em diversas tecnologias e paixão por criar soluções inovadoras. Atualmente no último semestre do curso de Análise e Desenvolvimento de Sistemas, busco uma posição desafiadora onde possa aplicar e expandir minhas habilidades em programação e desenvolvimento de sistemas. Almejo contribuir para projetos inovadores, colaborando com equipes de alta performance e impulsionando o crescimento tecnológico da organização. Estou comprometido com o aprendizado contínuo e a entrega de soluções de software de alta qualidade.
+Conecte-se Comigo
 
-## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-bernardi-39038a281/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luizbernardi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizbernardi1109@gmail.com)
+<p align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-bernardi-39038a281/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luizbernardi)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizbernardi1109@gmail.com)
+</p>
 
-## Estatísticas do GitHub
-![Luizbernardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizbernardi&show_icons=true&theme=gotham)
+Estatísticas do GitHub
+
+
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luizbernardi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-## Habilidades Técnicas
-### Linguagens de Programação
+Habilidades Técnicas
+
+Linguagens de Programação
+
 <img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,7 +32,8 @@ Desenvolvedor de software com experiência em diversas tecnologias e paixão por
 <img align="center" alt="Vue.js" height="30" width="40" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-### Ferramentas e Frameworks
+Ferramentas e Frameworks
+
 <img align="center" alt="Jenkins" height="30" width="40" src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white">
 <img align="center" alt="AEM" height="30" width="40" src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
 <img align="center" alt="CI/CD" height="30" width="40" src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -36,14 +45,24 @@ Desenvolvedor de software com experiência em diversas tecnologias e paixão por
 <img align="center" alt="Maven" height="30" width="40" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
 <img align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
-## Projetos Pessoais
-- **GearVault: Gerenciamento de Estoque Empresarial**
-  - Aplicação pessoal em desenvolvimento para gerenciamento de estoque empresarial.
-  - Link: [GearVault](https://gearvault.fly.dev/)
+Projetos Pessoais
 
-## Formação Acadêmica
-- Análise e Desenvolvimento de Sistemas - Unisenai (5º período)
-- Técnico Eletrotécnica - IFSC (Jan 2016 - Dez 2020)
+•
+GearVault: Gerenciamento de Estoque Empresarial
+
+•
+Aplicação pessoal em desenvolvimento para gerenciamento de estoque empresarial.
+
+•
+Link: GearVault
 
 
+
+Formação Acadêmica
+
+•
+Análise e Desenvolvimento de Sistemas - Unisenai (5º período)
+
+•
+Técnico Eletrotécnica - IFSC (Jan 2016 - Dez 2020)
 
