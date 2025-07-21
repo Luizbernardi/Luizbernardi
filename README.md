@@ -1,46 +1,49 @@
-<!-- Presentation -->
+# Olá, sou Luiz Bernardi 👋
 
- # Olá, sou Luiz Bernardi 
+Desenvolvedor de software com experiência em diversas tecnologias e paixão por criar soluções inovadoras. Atualmente no último semestre do curso de Análise e Desenvolvimento de Sistemas, busco uma posição desafiadora onde possa aplicar e expandir minhas habilidades em programação e desenvolvimento de sistemas. Almejo contribuir para projetos inovadores, colaborando com equipes de alta performance e impulsionando o crescimento tecnológico da organização. Estou comprometido com o aprendizado contínuo e a entrega de soluções de software de alta qualidade.
 
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardi_luiz/)
+## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-bernardi-39038a281/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizbernardi37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luizbernardi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizbernardi1109@gmail.com)
 
-<!-- GithubStats -->
+## Estatísticas do GitHub
 ![Luizbernardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizbernardi&show_icons=true&theme=gotham)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luizbernardi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<!-- Portfolio -->
- <!-- ## Portfolio: >
+## Habilidades Técnicas
+### Linguagens de Programação
+<img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="C#" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="TypeScript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Vue.js" height="30" width="40" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h2>Programming Languages</h2>
-    <img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h2>Tools & Frameworks</h2>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Eclipse" height="30" width="40" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-    <img align="center" alt="Mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
-  
-  <!-- Skills: Libraries -->
-<!--  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div> >
+### Ferramentas e Frameworks
+<img align="center" alt="Jenkins" height="30" width="40" src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white">
+<img align="center" alt="AEM" height="30" width="40" src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
+<img align="center" alt="CI/CD" height="30" width="40" src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white">
+<img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="Bitbucket" height="30" width="40" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="TailwindCSS" height="30" width="40" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="center" alt="SpringBoot" height="30" width="40" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img align="center" alt="Maven" height="30" width="40" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+<img align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
+## Projetos Pessoais
+- **GearVault: Gerenciamento de Estoque Empresarial**
+  - Aplicação pessoal em desenvolvimento para gerenciamento de estoque empresarial.
+  - Link: [GearVault](https://gearvault.fly.dev/)
+
+## Formação Acadêmica
+- Análise e Desenvolvimento de Sistemas - Unisenai (5º período)
+- Técnico Eletrotécnica - IFSC (Jan 2016 - Dez 2020)
+
+
+
